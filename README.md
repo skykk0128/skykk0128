@@ -64,5 +64,11 @@ public class FullStackDeveloper {
 [![skykk0128's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=skykk0128&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://github.com/anuraghazra/github-readme-stats)
   
 <!--START_SECTION:waka-->
+```text
+PHP          3 hrs 28 mins   ██████████▒░░░░░░░░░░░░░░   41.84 % 
+JavaScript   2 hrs 23 mins   ███████▒░░░░░░░░░░░░░░░░░   28.87 % 
+HTML         1 hr 53 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.84 % 
+XML          31 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
+```
 <!--END_SECTION:waka-->
 
