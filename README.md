@@ -38,7 +38,7 @@ public class FullStackDeveloper {
 
 ## &#x1f4c8; GitHub Stats
 
-<p align="center">
+<p align="left">
     <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=skykk0128&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555&theme=dracula">
     <br>
     <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skykk0128&hide=html,&hide_border=true&title_color=5391FE&text_color=555&theme=dracula"
