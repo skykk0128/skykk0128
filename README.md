@@ -41,7 +41,7 @@ public class FullStackDeveloper {
 <p align="left">
     <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=skykk0128&show_icons=true&theme=dracula">
     <br>
-    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skykk0128&hide=html,&hide_border=true&title_color=5391FE&text_color=555&theme=dracula"
+    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skykk0128&hide=html&theme=dracula"
 </p>
 
 ## 🏆 GitHub Trophies
