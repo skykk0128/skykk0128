@@ -52,11 +52,11 @@ public class FullStackDeveloper {
 ## 🗂️ Highlight Projects
 
 <a href="https://github.com/skykk0128/Project1__PersonalWebsite">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=skykk0128&repo=Project1__PersonalWebsite&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Project1__PersonalWebsite" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=skykk0128&repo=Project1__PersonalWebsite&show_icons=true&line_height=27&theme=nord" alt="Project1__PersonalWebsite" />
 </a>
 
 <a href="https://github.com/skykk0128/Calculator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=skykk0128&repo=Calculator&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Calculator" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=skykk0128&repo=Calculator&show_icons=true&line_height=27&theme=nord" alt="Calculator" />
 </a>
 
 ## 👨‍💻 This week, I spent my time on:
