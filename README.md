@@ -61,7 +61,7 @@ public class FullStackDeveloper {
 
 ## 👨‍💻 This week, I spent my time on:
 
-[![skykk0128's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=skykk0128&line_height=27&theme=nord&v=2)](https://github.com/anuraghazra/github-readme-stats)
+[![skykk0128's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=skykk0128&line_height=27&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
   
 <!--START_SECTION:waka-->
 ```text
