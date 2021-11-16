@@ -65,10 +65,11 @@ public class FullStackDeveloper {
   
 <!--START_SECTION:waka-->
 ```text
-PHP          3 hrs 28 mins   ██████████▒░░░░░░░░░░░░░░   41.84 % 
-JavaScript   2 hrs 23 mins   ███████▒░░░░░░░░░░░░░░░░░   28.87 % 
-HTML         1 hr 53 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.84 % 
-XML          31 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
+TypeScript   5 hrs 17 mins   █████████▓░░░░░░░░░░░░░░░   38.68 % 
+PHP          3 hrs 28 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.35 % 
+JavaScript   2 hrs 23 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.49 % 
+HTML         1 hr 59 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+XML          31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
 ```
 <!--END_SECTION:waka-->
 
