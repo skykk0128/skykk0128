@@ -65,9 +65,9 @@ public class FullStackDeveloper {
   
 <!--START_SECTION:waka-->
 ```text
-TypeScript   9 hrs 21 mins   ████████████████████░░░░░   79.51 % 
-Vue.js       2 hrs 4 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.68 % 
-JavaScript   19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+TypeScript   9 hrs 21 mins   ██████████████████████░░░   88.12 % 
+Vue.js       58 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
+JavaScript   16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
 ```
 <!--END_SECTION:waka-->
 
