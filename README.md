@@ -65,11 +65,11 @@ public class FullStackDeveloper {
   
 <!--START_SECTION:waka-->
 ```text
-Java             3 hrs 33 mins   ███████████████▓░░░░░░░░░   62.38 % 
-TypeScript       52 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
-Markdown         36 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
-JavaScript       15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
-GitIgnore file   10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+Java         6 hrs 10 mins   ███████████████████░░░░░░   76.36 % 
+TypeScript   52 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+JavaScript   49 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+Properties   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+CSV/TSV      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 ```
 <!--END_SECTION:waka-->
 
