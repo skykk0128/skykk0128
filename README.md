@@ -65,8 +65,7 @@ public class FullStackDeveloper {
   
 <!--START_SECTION:waka-->
 ```text
-Java       1 hr 59 mins    ████████████████████████▓   98.91 % 
-Text       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
