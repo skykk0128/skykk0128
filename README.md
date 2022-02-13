@@ -65,7 +65,7 @@ public class FullStackDeveloper {
   
 <!--START_SECTION:waka-->
 ```text
-Java     15 mins         ████████████████████████▓   99.14 % 
+
 ```
 <!--END_SECTION:waka-->
 
