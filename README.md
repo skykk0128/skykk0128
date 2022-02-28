@@ -64,8 +64,10 @@ public class FullStackDeveloper {
 [![skykk0128's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=skykk0128&line_height=27&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
   
 <!--START_SECTION:waka-->
+
 ```text
-Other      13 mins         ████████████████████████▒   97.24 % 
+Other      13 mins         ████████████████████████▒   97.24 %
 ```
+
 <!--END_SECTION:waka-->
 
