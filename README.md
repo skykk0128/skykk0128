@@ -66,7 +66,7 @@ public class FullStackDeveloper {
 <!--START_SECTION:waka-->
 
 ```text
-Other      13 mins         ████████████████████████▒   97.24 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
