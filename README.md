@@ -66,7 +66,11 @@ public class FullStackDeveloper {
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Java             32 mins         ████████████████████▒░░░░   81.87 %
+XML              3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.10 %
+GitIgnore file   3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.71 %
+Groovy           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
