@@ -66,10 +66,7 @@ public class FullStackDeveloper {
 <!--START_SECTION:waka-->
 
 ```text
-Java                  1 hr 24 mins    ████████████████████████▒   97.71 %
-GitIgnore file        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
-Sublime Text Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
-Groovy                0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
